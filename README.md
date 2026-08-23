@@ -15,7 +15,7 @@ BPlusTree-ExtendibleHashing/
 │   ├── BPlusTree.cpp
 │   └── ExtendibleHashing.cpp
 ├── README.md
-└── LICENSE
+
 ```
 
 ## 🌳 B+ Tree
