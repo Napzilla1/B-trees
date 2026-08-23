@@ -98,6 +98,3 @@ Menu:
 - g++ / clang++ / MSVC
 - No external libraries
 
-## 📄 License
-
-MIT License
